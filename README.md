@@ -4,8 +4,8 @@
 This app allows the user to change the color and the content of a string of text as well as change the background color.
 
 ### App Walk-though
-<img src="http://g.recordit.co/vhQ4S5m4Eu.gif" width=200><br>
-
+<img src="https://i.imgur.com/xH3xIML.gif" width=200><br>
+gif
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
